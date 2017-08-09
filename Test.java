@@ -9,6 +9,8 @@ public class Test {
 
 		System.out.println("trying my best magushai plz help me");
 
+		System.out.println("I have done that too");
+
 	}
 
 }
